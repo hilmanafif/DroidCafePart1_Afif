@@ -83,8 +83,11 @@ public class MainActivity extends AppCompatActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
+        switch (id){
+            case R.id.action_contact:
+                Toast.makeText(getApplicationContext(),"Anda menekan kontak",Toast.LENGTH_LONG).show();
+        }
 
-        
     }
 
     /**
