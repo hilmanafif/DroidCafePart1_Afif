@@ -86,8 +86,9 @@ public class MainActivity extends AppCompatActivity {
         switch (id){
             case R.id.action_contact:
                 Toast.makeText(getApplicationContext(),"Anda menekan kontak",Toast.LENGTH_LONG).show();
+                break;
         }
-
+        return 
     }
 
     /**
