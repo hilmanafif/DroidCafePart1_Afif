@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/anim/abc_popup_enter.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_contacts_black_24dp.png",
+        "source": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_contacts_black_24dp.png"
+    },
+    {
+        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_wb_sunny_black_24dp.png",
+        "source": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_wb_sunny_black_24dp.png"
+    }
+]

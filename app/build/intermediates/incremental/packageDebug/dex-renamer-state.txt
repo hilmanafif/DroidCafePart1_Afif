@@ -1,0 +1,7 @@
+#Fri Oct 06 17:20:38 WIB 2017
+base.0=/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_79337da6f1730dfcd036e09686e28d0b6cb28e58
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_309e70e922328f9c592ba598af5e4c79e00dfe25/classes.dex
+base.1=/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_309e70e922328f9c592ba598af5e4c79e00dfe25
+file.0=/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_79337da6f1730dfcd036e09686e28d0b6cb28e58/classes.dex
