@@ -1,99 +1,99 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:15:1-37:12
+ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:15:1-37:12
 	package
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:16:5-44
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:16:5-44
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:15:11-69
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:15:11-69
 	android:versionCode
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
 application
-ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:18:5-35:19
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/4a5af15cd0f03cbad2aeebd4cf1136b323d44ed1/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/69ee0e02abf6f8e36e527a86976df2772d1ec094/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/fd3bc9012703af0e4cf4db20464491acc6124cd4/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/f5cee3706066a0e668ec2d8f9e167bf9897759ed/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/122e188301471941ae0993edadf3cdd41ec4f685/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/42c17717100d2d3720edfb74747f4caadafcac1e/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/690ad61257cf6851fc023befb121d7ebfc13c278/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/bc680d0a863dab62d5eb64eaa8f9456bc20e8f45/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/25c485b40cf7fe64ca0fd66bd4431cae23eb0674/output/AndroidManifest.xml:29:5-20
+ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:18:5-35:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\7661ed673909eaff0123aa78d721fcfd7e2920f1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\39313319574bf8d90f50aea8dba0228b09477aae\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\c5a7a018966f983aeb08d0cc656a971da46c9616\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\3165eba59b967efdd911bc3a8e87d2190f8ebb52\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\65d63b48b19b2762007f71298745aef1238fc318\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\62376d7e959a2ba66a77c8e00240c72a151c60ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\2adf83dfa99f4fc2807b27aa6d15237a9e82f31f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\ce3b4c1dd72bc822d64f3850da32671d5fc410b8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\28dd1ebb6541c91496bea042e01d0984dc5bd182\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\2cb7bc68d62f6d6c3d000244df9ed5c2d88d1f19\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:21:9-41
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:21:9-41
 	android:supportsRtl
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:22:9-35
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:22:9-35
 	android:allowBackup
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:19:9-35
 	android:icon
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:20:9-43
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:20:9-43
 	android:theme
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:23:9-40
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:23:9-40
 activity#com.example.android.droidcafe.MainActivity
-ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:24:9-33:20
+ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:24:9-33:20
 	android:label
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:26:13-45
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:26:13-45
 	android:theme
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:27:13-56
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:27:13-56
 	android:name
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:25:13-41
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:25:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:31:27-74
 activity#com.example.android.droidcafe.OrderActivity
-ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:34:9-60
+ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:34:9-60
 	android:name
-		ADDED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml:34:19-48
+		ADDED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml:34:19-48
 uses-sdk
-INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/4a5af15cd0f03cbad2aeebd4cf1136b323d44ed1/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/69ee0e02abf6f8e36e527a86976df2772d1ec094/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/72c65a27321e7457e861ddb894e02f0d0a3c43bd/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/fd3bc9012703af0e4cf4db20464491acc6124cd4/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/f5cee3706066a0e668ec2d8f9e167bf9897759ed/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/122e188301471941ae0993edadf3cdd41ec4f685/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/42c17717100d2d3720edfb74747f4caadafcac1e/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/690ad61257cf6851fc023befb121d7ebfc13c278/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/bc680d0a863dab62d5eb64eaa8f9456bc20e8f45/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/25c485b40cf7fe64ca0fd66bd4431cae23eb0674/output/AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\7661ed673909eaff0123aa78d721fcfd7e2920f1\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\39313319574bf8d90f50aea8dba0228b09477aae\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\c5a7a018966f983aeb08d0cc656a971da46c9616\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\9900dfcdfb537936e1af74a6fb8c1f6bd77889b1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\3165eba59b967efdd911bc3a8e87d2190f8ebb52\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\65d63b48b19b2762007f71298745aef1238fc318\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\62376d7e959a2ba66a77c8e00240c72a151c60ec\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\2adf83dfa99f4fc2807b27aa6d15237a9e82f31f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\ce3b4c1dd72bc822d64f3850da32671d5fc410b8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\28dd1ebb6541c91496bea042e01d0984dc5bd182\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\2cb7bc68d62f6d6c3d000244df9ed5c2d88d1f19\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester 7\Mobile Prog\DroidCafePart1_Afif\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/4a5af15cd0f03cbad2aeebd4cf1136b323d44ed1/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/69ee0e02abf6f8e36e527a86976df2772d1ec094/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/72c65a27321e7457e861ddb894e02f0d0a3c43bd/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/fd3bc9012703af0e4cf4db20464491acc6124cd4/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/f5cee3706066a0e668ec2d8f9e167bf9897759ed/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/122e188301471941ae0993edadf3cdd41ec4f685/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/42c17717100d2d3720edfb74747f4caadafcac1e/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/690ad61257cf6851fc023befb121d7ebfc13c278/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/bc680d0a863dab62d5eb64eaa8f9456bc20e8f45/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/25c485b40cf7fe64ca0fd66bd4431cae23eb0674/output/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\7661ed673909eaff0123aa78d721fcfd7e2920f1\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\39313319574bf8d90f50aea8dba0228b09477aae\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\c5a7a018966f983aeb08d0cc656a971da46c9616\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\9900dfcdfb537936e1af74a6fb8c1f6bd77889b1\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\3165eba59b967efdd911bc3a8e87d2190f8ebb52\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\65d63b48b19b2762007f71298745aef1238fc318\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\62376d7e959a2ba66a77c8e00240c72a151c60ec\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\2adf83dfa99f4fc2807b27aa6d15237a9e82f31f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\ce3b4c1dd72bc822d64f3850da32671d5fc410b8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\28dd1ebb6541c91496bea042e01d0984dc5bd182\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\2cb7bc68d62f6d6c3d000244df9ed5c2d88d1f19\output\AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\output\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\hilma\.android\build-cache\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\output\AndroidManifest.xml:26:9-47

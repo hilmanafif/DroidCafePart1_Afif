@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/src/main/res/menu/menu_main.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\1147050074\\DroidCafePart1_Afif\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]

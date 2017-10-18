@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_wb_sunny_black_24dp.xml",
+        "source": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_wb_sunny_black_24dp.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_contacts_black_24dp.xml",
-        "source": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_contacts_black_24dp.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_contacts_black_24dp.xml",
+        "source": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_contacts_black_24dp.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_wb_sunny_black_24dp.xml",
-        "source": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_wb_sunny_black_24dp.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_contacts_black_24dp.xml",
+        "source": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_contacts_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\6291d30696fe07d071e050f7c3ca428372593ca4\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_wb_sunny_black_24dp.xml",
+        "source": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_wb_sunny_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\6291d30696fe07d071e050f7c3ca428372593ca4\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     }
 ]

@@ -1,26 +1,50 @@
 [
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v11/notification_media_action.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     }
 ]

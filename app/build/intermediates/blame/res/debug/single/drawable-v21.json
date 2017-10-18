@@ -1,34 +1,66 @@
 [
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/drawable-v21/avd_hide_password.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/drawable-v21/design_password_eye.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\6291d30696fe07d071e050f7c3ca428372593ca4\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/drawable-v21/avd_show_password.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\6291d30696fe07d071e050f7c3ca428372593ca4\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/d863e49eb29c55797305385f02829e1d5be41367/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\6291d30696fe07d071e050f7c3ca428372593ca4\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\6291d30696fe07d071e050f7c3ca428372593ca4\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\7661ed673909eaff0123aa78d721fcfd7e2920f1\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\240fc1539517cabf5d90560822d3a167e5dcadc0\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\\output\\res\\drawable-v21\\avd_show_password.xml"
     }
 ]

@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_wb_sunny_black_24dp.png",
-        "source": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_wb_sunny_black_24dp.png"
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_wb_sunny_black_24dp.png",
+        "source": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_wb_sunny_black_24dp.png"
     },
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_contacts_black_24dp.png",
-        "source": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_contacts_black_24dp.png"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_contacts_black_24dp.png",
+        "source": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_contacts_black_24dp.png"
+    },
+    {
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_wb_sunny_black_24dp.png",
+        "source": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_wb_sunny_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_contacts_black_24dp.png",
+        "source": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_contacts_black_24dp.png"
     }
 ]

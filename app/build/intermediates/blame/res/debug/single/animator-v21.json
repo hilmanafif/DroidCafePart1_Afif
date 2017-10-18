@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/aldyrialdy/Downloads/android-fundamentals-master/DroidCafePart1/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
-        "source": "/home/aldyrialdy/.android/build-cache/46eeabbe1efecbc7de58a5a6673721c2d10ae506/output/res/animator-v21/design_appbar_state_list_animator.xml"
+        "merged": "D:\\1147050074\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\MU-02\\.android\\build-cache\\6291d30696fe07d071e050f7c3ca428372593ca4\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\Semester 7\\Mobile Prog\\DroidCafePart1_Afif\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\hilma\\.android\\build-cache\\0d4c2385ff49576488bb38d788f7c5bc9affc8aa\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     }
 ]
